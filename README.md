@@ -43,9 +43,12 @@ The app uses `StyleSheet` from React Native to manage styles for different compo
 
 ## Screenshots of the App
 ## Login Screen
-<img width="231" alt="image" src="https://github.com/bismark-bakomora/rn-assignment4-11011833/assets/141500032/ef11ce79-7f9f-474a-81d1-ff1870d916c9">
+![image](https://github.com/bismark-bakomora/rn-assignment4-11011833/assets/141500032/06d78013-0eeb-4bf0-830b-e8343322585f)
+
 
 ## Home Screen 1
-C:\Users\bisma\OneDrive\Desktop\APP DEVELOPMENT\rn-assignment4-11011833\JobApp\rn-assignment4-11011833\home1.jpg
+![image](https://github.com/bismark-bakomora/rn-assignment4-11011833/assets/141500032/6df6a1dc-0fef-413f-ac4f-9a6b9a48ddc7)
+
 ## Home Screen 2
-C:\Users\bisma\OneDrive\Desktop\APP DEVELOPMENT\rn-assignment4-11011833\JobApp\rn-assignment4-11011833\home2.jpg
+
+![image](https://github.com/bismark-bakomora/rn-assignment4-11011833/assets/141500032/8b8c722a-8688-4219-a556-821da1007eef)
